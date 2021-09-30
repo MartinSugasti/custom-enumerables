@@ -1,5 +1,5 @@
 # Custom Enumerables
-Mini project to practice the use of yield and the #call methods.
+Mini project from [TOP](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/custom-enumerables) to practice the use of yield and the #call methods.
 
 Custom Methods
 - my_each
